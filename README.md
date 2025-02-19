@@ -3,12 +3,15 @@ This repo contains the source code for the paper: Enhancing perfSONAR Measuremen
 
 --------------------------------------------------------
 To compile the program:
+
     make compile
 
 To run the switch daemon:
+
     make run
 
 To enable the ports:
+
     make conf_links
 
 --------------------------------------------------------
