@@ -7,6 +7,7 @@ To compile the program:		->	 make compile
 To run the switch daemon:	->	 make run
 
 To enable the ports: 		->	 make conf_links
+
 --------------------------------------------------------
 
 Steps to run the program:
