@@ -2,11 +2,14 @@
 This repo contains the source code for the paper: Enhancing perfSONAR Measurement Capabilities using P4 Programmable Switches and Adaptive Sampling
 
 --------------------------------------------------------
-To compile the program:		->	 make compile
+To compile the program:
+    make compile
 
-To run the switch daemon:	->	 make run
+To run the switch daemon:
+    make run
 
-To enable the ports: 		->	 make conf_links
+To enable the ports:
+    make conf_links
 
 --------------------------------------------------------
 
