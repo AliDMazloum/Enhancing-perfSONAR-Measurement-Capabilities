@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enhancing-perfSONAR-Measurement-Capabilities
 This repo contains the source code for the paper: Enhancing perfSONAR Measurement Capabilities using P4 Programmable Switches and Adaptive Sampling
 
@@ -15,3 +16,6 @@ Steps to run the program:
     
     5)  python3.9 Measurement_collector/main.py             // this script receives the collected measurement from the conrol plane of the 
                                                                switch and plot them on grafana
+=======
+# PDP_DMZ
+>>>>>>> d374e36 (first commit)
