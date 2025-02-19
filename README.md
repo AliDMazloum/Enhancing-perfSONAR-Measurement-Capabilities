@@ -13,5 +13,5 @@ Steps to run the program:
     
     4)  make start_control_plane_measurements               // this step starts the measurement collection at the control plane.
     
-    5)  python3.9 Measurement_collector/measurement.py      // this script receives the collected measurement from the conrol plane of the 
+    5)  python3.9 Measurement_collector/main.py             // this script receives the collected measurement from the conrol plane of the 
                                                                switch and plot them on grafana
